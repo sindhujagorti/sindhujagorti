@@ -1,7 +1,7 @@
 <h1 align="center">🍵 hi, i'm sindhuja! 🌷</h1>
 
 <p align="center">
-  <i>cs @ uci · building cool things ✨</i><br/>
+  <i>cs @ uci · brewing cute things in the garden ✨</i><br/>
   <b>🍃 open to swe / ml new grad roles — summer 2027 🍃</b>
 </p>
 
@@ -70,12 +70,12 @@ sindhuja = {
 
 ### 🥐 a few things i've built
 
-| project | description |
+| project | the vibe |
 |---|---|
 | 🍵 [**msa-text2sql**](https://github.com/sindhujagorti/msa-text2sql) | text-to-sql w/ multi-step agent reasoning on the SPIDER dataset (cs175) |
 | 🌿 [**spacetime-crawler4py**](https://github.com/sindhujagorti/spacetime-crawler4py) | distributed polite web crawler for information retrieval (cs121) |
-| 🚁 **uav forge — uavf 2026** | autonomous drone software: ros2, mavlink, waypoint nav & aerial detection |
-| 🌷 **la peña & eldr (commit the change)** | full-stack nonprofit sites: react, chakra ui, node, postgres |
+| 🚁 [**uav forge — uavf**](https://github.com/uci-uav-forge/uavf_2025) | autonomous drone software: ros2, mavlink, waypoint nav & aerial detection |
+| 🌷 [**la peña**](https://github.com/ctc-uci/lpa) & [**eldr**](https://github.com/ctc-uci/eldr) — commit the change | full-stack nonprofit sites: react, chakra ui, node, postgres |
 
 ---
 
