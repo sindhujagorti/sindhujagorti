@@ -70,7 +70,7 @@ sindhuja = {
 
 ### 🥐 a few things i've built
 
-| project | the vibe |
+| project | description |
 |---|---|
 | 🍵 [**msa-text2sql**](https://github.com/sindhujagorti/msa-text2sql) | text-to-sql w/ multi-step agent reasoning on the SPIDER dataset (cs175) |
 | 🌿 [**spacetime-crawler4py**](https://github.com/sindhujagorti/spacetime-crawler4py) | distributed polite web crawler for information retrieval (cs121) |
