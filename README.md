@@ -1,7 +1,7 @@
 <h1 align="center">🍵 hi, i'm sindhuja! 🌷</h1>
 
 <p align="center">
-  <i>cs @ uci · brewing cute things in the garden ✨</i><br/>
+  <i>cs @ uci · building cool things ✨</i><br/>
   <b>🍃 open to swe / ml new grad roles — summer 2027 🍃</b>
 </p>
 
