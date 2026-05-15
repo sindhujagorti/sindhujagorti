@@ -15,7 +15,7 @@
 
 ### 🌿 about me
 
-- 🌷 third-year cs student at **uc irvine** (b.s. computer science, june 2027)
+- 🌷 fourth-year cs student at **uc irvine** (b.s. computer science, june 2027)
 - 🚁 currently a **gnc engineer @ uav forge** — building autonomous flight software for drones
 - 🍵 recently: **ai intern @ aveva** (summer 2026) — cv + ml prototypes & python ↔ rust pipelines
 - 🥐 past lives: **automation & ai strategy @ labarre oksnee**, **ai intern @ rocketfrog.ai**, **full-stack @ commit the change**
