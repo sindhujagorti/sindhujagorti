@@ -11,9 +11,9 @@ Open to SWE / ML new grad roles — Summer 2027 🍵
 
 ## Previously
 
-- Automation & AI Strategy at LaBarre Oksnee [2025]
+- Automation & AI Strategy at LaBarre Oksnee [2025 - 2026]
 - AI Intern at RocketFrog.ai [2024]
-- Full-Stack Developer at [Commit the Change](https://github.com/ctc-uci), UCI [2024 - 2025]
+- Full-Stack Developer at [Commit the Change](https://github.com/ctc-uci), UCI [2024 - 2026]
 
 ## Highlighted Projects
 
