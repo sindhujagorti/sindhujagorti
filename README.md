@@ -1,11 +1,11 @@
 # Hi 👋, I'm Sindhuja
 
 CS @ UC Irvine · Building agents, ML systems, and autonomous software
-Open to SWE / ML new grad roles — Summer 2027 🍵
+Open to SWE / ML new grad roles — Dec 2026 🍵
 
 ## Currently
 
-- Studying Computer Science at UC Irvine (B.S. Computer Science, June 2027)
+- Studying Computer Science at UC Irvine (B.S. Computer Science, Dec 2026)
 - GNC Engineer at [UAV Forge](https://github.com/uci-uav-forge), building autonomous flight software for drones
 - AI Intern at AVEVA (Summer 2026), shipping CV + ML prototypes and Python ↔ Rust pipelines
 
@@ -16,11 +16,11 @@ Open to SWE / ML new grad roles — Summer 2027 🍵
 - Full-Stack Developer at [Commit the Change](https://github.com/ctc-uci), UCI [2024 - 2026]
 
 ## Highlighted Projects
-
-- [MSA-Text2SQL](https://github.com/sindhujagorti/msa-text2sql), a text-to-SQL system with multi-step agent reasoning on the SPIDER dataset [Python, LangGraph]
 - [UAVF](https://github.com/uci-uav-forge/uavf_2025), autonomous drone software for UAV Forge: waypoint navigation and aerial detection [ROS2, MAVLink, Python]
+- [La Peña](https://github.com/ctc-uci/lpa), full-stack nonprofit web platforms built with Commit the Change [React, Node, Postgres]
+- [ELDR](https://github.com/ctc-uci/eldr), full-stack nonprofit web platforms built with Commit the Change [React, Node, Postgres]
+- [MSA-Text2SQL](https://github.com/sindhujagorti/msa-text2sql), a text-to-SQL system with multi-step agent reasoning on the SPIDER dataset [Python, LangGraph]
 - [Spacetime-Crawler4py](https://github.com/sindhujagorti/spacetime-crawler4py), a distributed polite web crawler for information retrieval [Python]
-- [La Peña](https://github.com/ctc-uci/lpa) & [ELDR](https://github.com/ctc-uci/eldr), full-stack nonprofit web platforms built with Commit the Change [React, Node, Postgres]
 
 ## Projects
 
