@@ -7,10 +7,9 @@ Open to SWE / ML new grad roles — Dec 2026 🍵
 
 - Studying Computer Science at UC Irvine (B.S. Computer Science, Dec 2026)
 - GNC Engineer at [UAV Forge](https://github.com/uci-uav-forge), building autonomous flight software for drones
-- AI Intern at AVEVA (Summer 2026), shipping CV + ML prototypes and Python ↔ Rust pipelines
 
 ## Previously
-
+- AI Intern at AVEVA [2026]
 - Automation & AI Strategy at LaBarre Oksnee [2025 - 2026]
 - AI Intern at RocketFrog.ai [2024]
 - Full-Stack Developer at [Commit the Change](https://github.com/ctc-uci), UCI [2024 - 2026]
